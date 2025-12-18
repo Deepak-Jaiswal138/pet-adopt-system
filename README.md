@@ -20,6 +20,15 @@ A full-stack web application designed to streamline the pet adoption process. Th
     *   Dark mode aesthetic with custom color variables.
     *   Interactive components and smooth animations.
 
+## 📸 Screenshots
+
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <img src="screenshots/screenshot-0.png" alt="App Screenshot 1" width="100%">
+  <img src="screenshots/screenshot-1.png" alt="App Screenshot 2" width="100%">
+  <img src="screenshots/screenshot-2.png" alt="App Screenshot 3" width="100%">
+  <img src="screenshots/screenshot-3.png" alt="App Screenshot 4" width="100%">
+</div>
+
 ## 🛠️ Technology Stack
 
 ### Backend
@@ -102,7 +111,7 @@ npm run dev
 Open a new terminal window:
 ```bash
 cd frontend
-npm run dev
+npm run dev 
 ```
 *The application will be accessible at `http://localhost:5173` (default Vite port).*
 
